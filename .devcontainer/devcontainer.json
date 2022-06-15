@@ -1,0 +1,9 @@
+{
+    "name": "kotlin-devcontainer",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "fwcd.kotlin",
+        "formulahendry.code-runner"
+    ],
+    "remoteUser": "vscode"
+}
